@@ -25,7 +25,7 @@ More private & unfinished things. Like some stories.
 
 ---
 
-## 📊 GitHub (dark mode only)
+## 📊 GitHub 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aghodemon&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&icon_color=aaaaaa&title_color=ffffff&text_color=bbbbbb)
 
