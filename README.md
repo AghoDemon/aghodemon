@@ -1,6 +1,6 @@
 # Aghodemon
 
-> *“She left. The code stayed.”*
+> *“My Heart Is Broken Already DO Not Kid Me About Love ...”*
 
 **Back-End Developer** | **Java & Minecraft Plugin Engineer** | **Python & Web**
 
