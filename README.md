@@ -1,7 +1,5 @@
 # Aghodemon
 
-> *“My Heart Is Broken Already DO Not Kid Me About Love ...”*
-
 **Back-End Developer** | **Java & Minecraft Plugin Engineer** | **Python & Web**
 
 ---
@@ -45,7 +43,6 @@ More private & unfinished things. Like some stories.
 
 ## 🥀 footnote
 
-> “Sometimes you close a ticket, sometimes a ticket closes you.”  
 > — `// no message //`
 
 ---
