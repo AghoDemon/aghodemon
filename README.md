@@ -16,8 +16,9 @@
 
 ## 🖤 Projects
 
-- [`Aghodemon.github.io`](https://Aghodemon.github.io) – personal website  
-- [`evilstoreshop.ir`](https://evilstoreshop.ir) – full e‑commerce platform (my own project)  
+- [`LogicDev Heaven Plugin`](https://github.com/LogicDevelopments) – Heaven Practice Plugin(First Iranian Practice Plugin)  
+- [`LogicDev`](https://github.com/LogicDevelopments) – LogicDev Projects
+- [`MineTopic`](https://minetopic.ir) – MineTopic     
 
 More private & unfinished things. Like some stories.
 
@@ -35,9 +36,12 @@ More private & unfinished things. Like some stories.
 
 ## 📁 Where to find me
 
-- GitHub → [Aghodemon](https://github.com/Aghodemon)  
-- Website → [Aghodemon.github.io](https://Aghodemon.github.io)  
-- Store → [evilstoreshop.ir](https://evilstoreshop.ir)  
+- GitHub → [AghoDemon](https://github.com/Aghodemon)  
+- Website → [Profile](https://Aghodemon.github.io)  
+- Discord → [Discord](https://discord.gg/)
+- Rubika → [Rubika](@Demon1795)
+- Telegram → [Telegram](https://t.me/Demon1795)
+- Youtube → [Youtube](https://youtube.com/@Demon1795) 
 
 ---
 
