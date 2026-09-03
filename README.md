@@ -2,10 +2,6 @@
 
 <div align="center">
 
- <img src="./background.svg" 
-       width="100%" 
-       style="position: absolute; left: 0; top: 0; z-index: -1;">
- 
 **TheNyxonis**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=3d3938&center=true&vCenter=true&width=750&lines=PYTHON+%26+JAVA+ARCHITECT;MINECRAFT+MOD+DEVELOPER;REDIS+%26+MONGODB+ENGINEER;FULL+STACK+DEV+/+EDITOR;React+NEXTJS+NODEJS+PHP;RestAPI+TS+MC+Java;TheNyxonis+Nyxonis" />
