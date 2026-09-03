@@ -1,11 +1,11 @@
 <div align="center">
  
-Nyxonis
+#TheNyxonis
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=750&lines=PYTHON+%26+JAVA+ARCHITECT;MINECRAFT+MOD+DEVELOPER;REDIS+%26+MONGODB+ENGINEER;FULL+STACK+DEV+/EDITOR;React+NEXTJS+NODEJS+PHP;RestAPI+TS+MC+Java;TheNyxonis+Nyxonis" />
 
 
-**Dead on 1404/10** 
+**Dead on 1404/10 🖤** 
 
 ---
 ##  Stack
