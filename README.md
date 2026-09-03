@@ -50,4 +50,6 @@ More private & unfinished things.
 → [Daramet](https://daramet.com/nyxonis)
 → [Crypto](https://evilstoreshop.ir/donate.php)
 
+[Azadi](https://github.com/nyxonis/nyxonis.github.io/raw/refs/heads/main/thenyxonis.mp3)
+**Nyxonis dead on 1404/10/18**
 ![](https://komarev.com/ghpvc/?username=nyxonis&label=views&color=333333&style=flat-square)
