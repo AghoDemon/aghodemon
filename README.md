@@ -28,23 +28,19 @@
 
 ## GitHub 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxonis&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&icon_color=aaaaaa&title_color=ffffff&text_color=bbbbbb)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxonis&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=bbbbbb)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyxonis&theme=dark&hide_border=true&background=0a0a0a&ring=666666&fire=aa5555&currStreakLabel=cccccc)
 
 ---
 
 ## Socials 
 
- GitHub → [Nyxonis](https://github.com/nyxonis)  
- Website → [Profile](https://nyxonis.github.io)  
- Discord → [Discord](https://discord.gg/)
- Rubika → [Rubika](@Nyxonis)
- Telegram → [Telegram](https://t.me/Nyxonis)
- Youtube → [Youtube](https://youtube.com/@Nyxonis)
- Donate → [Crypto](https://evilstoreshop.ir/donate.php)
+- GitHub → [Nyxonis](https://github.com/nyxonis)  
+- Website → [Profile](https://nyxonis.github.io)  
+- Discord → [Discord](https://discord.gg/)
+- Rubika → [Rubika](@Nyxonis)
+- Telegram → [Telegram](https://t.me/Nyxonis)
+- Youtube → [Youtube](https://youtube.com/@Nyxonis)
+- Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 ---
 
