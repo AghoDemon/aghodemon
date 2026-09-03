@@ -45,4 +45,9 @@ More private & unfinished things.
 
 ---
 
+## Donate
+
+→ [Daramet](https://daramet.com/nyxonis)
+→ [Crypto](https://evilstoreshop.ir/donate.php)
+
 ![](https://komarev.com/ghpvc/?username=nyxonis&label=views&color=333333&style=flat-square)
