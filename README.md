@@ -1,8 +1,10 @@
+<img src="./header.svg" width="100%" alt="footer" />
+
 <div align="center">
  
 **TheNyxonis**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=750&lines=PYTHON+%26+JAVA+ARCHITECT;MINECRAFT+MOD+DEVELOPER;REDIS+%26+MONGODB+ENGINEER;FULL+STACK+DEV+/+EDITOR;React+NEXTJS+NODEJS+PHP;RestAPI+TS+MC+Java;TheNyxonis+Nyxonis" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=3d3938&center=true&vCenter=true&width=750&lines=PYTHON+%26+JAVA+ARCHITECT;MINECRAFT+MOD+DEVELOPER;REDIS+%26+MONGODB+ENGINEER;FULL+STACK+DEV+/+EDITOR;React+NEXTJS+NODEJS+PHP;RestAPI+TS+MC+Java;TheNyxonis+Nyxonis" />
 
 
 **Dead on 1404/10 🖤** 
@@ -51,3 +53,5 @@
 ---
 ![](https://komarev.com/ghpvc/?username=nyxonis&label=views&color=333333&style=flat-square)
 </div>
+
+<img src="./footer.svg" width="100%" alt="footer" />
