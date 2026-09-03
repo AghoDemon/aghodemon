@@ -28,11 +28,11 @@
 
 ## GitHub 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aghodemon&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&icon_color=aaaaaa&title_color=ffffff&text_color=bbbbbb)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxonis&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&icon_color=aaaaaa&title_color=ffffff&text_color=bbbbbb)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aghodemon&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=bbbbbb)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxonis&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=bbbbbb)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aghodemon&theme=dark&hide_border=true&background=0a0a0a&ring=666666&fire=aa5555&currStreakLabel=cccccc)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyxonis&theme=dark&hide_border=true&background=0a0a0a&ring=666666&fire=aa5555&currStreakLabel=cccccc)
 
 ---
 
@@ -48,8 +48,8 @@
 
 ---
 
->[](https://nyxonis.github.io/thenyxonis.mp3)
-> ▶ ═══●══════════════ 0:00 / 3:12
+>[▶](https://nyxonis.github.io/thenyxonis.mp3)
+> ═══●══════════════ 0:00 / 3:12
  
 
 ---
