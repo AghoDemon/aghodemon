@@ -49,7 +49,7 @@ Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 
 ┌─────────────────────────────────┐
-│  ▶  song.mp3(https://nyxonis.github.io/thenyxonis.mp3)                   │
+│  ▶  [song.mp3](https://nyxonis.github.io/thenyxonis.mp3)                   │
 │  ═══●══════════════ 1:23 / 3:12│
 │  [🔊]  [⏸]  [⏭]              │
 └─────────────────────────────────┘ 
