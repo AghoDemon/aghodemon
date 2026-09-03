@@ -45,7 +45,6 @@ More private & unfinished things.
 
 ---
 
-## Donate
 Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 
