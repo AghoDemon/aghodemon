@@ -20,9 +20,9 @@
 
 ##  Projects
 
- **[`HillVelocity`](https://github.com/nyxonis/hillvelocity) – Hillvelocity a custom fork of velocity(Minecraft Proxy)**  
- **[`Nyxonis`](https://nyxonis.github.io) – my profile website**
- **[`ETeam`](https://evilstoreshop.ir) – EProject by me**    
+ **[`HillVelocity`](https://github.com/nyxonis/hillvelocity)**  
+ **[`Nyxonis`](https://nyxonis.github.io)**
+ **[`ETeam`](https://evilstoreshop.ir)**    
 
 ---
 
