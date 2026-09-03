@@ -50,7 +50,7 @@ Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 
 
-[Nyxonis dead on 1404/10](https://github.com/nyxonis/nyxonis.github.io/raw/refs/heads/main/thenyxonis.mp3)
+[Nyxonis dead on 1404/10](https://nyxonis.github.io/thenyxonis.mp3)
 
 
 ---
