@@ -1,9 +1,11 @@
+<div align="center">
 # TheNyxonis
 
-**Back-End Developer** | **Java & Minecraft Plugin Engineer** | **Python & Web**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=750&lines=%E2%9C%A6+PYTHON+%26+JAVA+ARCHITECT+%E2%9C%A6;%E2%99%AA+MINECRAFT+MOD+WHISPERER+%E2%99%AA;%F0%9F%92%80+REDIS+%26+MONGODB+IN+THE+SHADOWS+%F0%9F%92%80;%E2%9C%A8+FULL+STACK+FROM+THE+VOID+%E2%9C%A8;%F0%9F%A6%87+BLACK+ROSES+%26+CODE+BASES+%F0%9F%A6%87;%E2%99%94%EF%B8%8F+DARK+SYNTAX%2C+DARKER+MINDS+%E2%99%94%EF%B8%8F" />
+
+`**Back-End Developer** | **Java & Minecraft Plugin Engineer** | **Python & Web**`
 
 ---
-
 ##  Stack
 
 - **Java** — Spring Boot, Hibernate, Maven  
@@ -21,7 +23,7 @@
 - [`ETeam`](https://evilstoreshop.ir) – EProject     
 
 More private & unfinished things.
-
+</div>
 ---
 
 ## GitHub 
@@ -41,16 +43,13 @@ More private & unfinished things.
 - Discord → [Discord](https://discord.gg/)
 - Rubika → [Rubika](@Nyxonis)
 - Telegram → [Telegram](https://t.me/Nyxonis)
-- Youtube → [Youtube](https://youtube.com/@Nyxonis) 
+- Youtube → [Youtube](https://youtube.com/@Nyxonis)
+- Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 ---
 
-Donate → [Crypto](https://evilstoreshop.ir/donate.php)
-
-
 >[song.mp3](https://nyxonis.github.io/thenyxonis.mp3)
-
- ▶ ═══●══════════════ 0:00 / 3:12
+> ▶ ═══●══════════════ 0:00 / 3:12
  
 
 ---
