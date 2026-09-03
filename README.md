@@ -48,7 +48,11 @@ More private & unfinished things.
 Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 
-[▶] [TheNyxonis.mp3](https://nyxonis.github.io/thenyxonis.mp3)  |  ═══●═══  |  0:00 / 3:12  
+┌─────────────────────────────────┐
+│  ▶  song.mp3(https://nyxonis.github.io/thenyxonis.mp3)                   │
+│  ═══●══════════════ 1:23 / 3:12│
+│  [🔊]  [⏸]  [⏭]              │
+└─────────────────────────────────┘ 
 
 
 ---
