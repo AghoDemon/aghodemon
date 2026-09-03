@@ -1,6 +1,10 @@
 <img src="./header.svg" width="100%" alt="footer" />
 
 <div align="center">
+
+ <img src="./background.svg" 
+       width="100%" 
+       style="position: absolute; left: 0; top: 0; z-index: -1;">
  
 **TheNyxonis**
 
