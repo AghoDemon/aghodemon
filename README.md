@@ -1,10 +1,10 @@
-# Aghodemon
+# TheNyxonis
 
 **Back-End Developer** | **Java & Minecraft Plugin Engineer** | **Python & Web**
 
 ---
 
-## ⚙️ Stack
+##  Stack
 
 - **Java** — Spring Boot, Hibernate, Maven  
 - **Minecraft** — Spigot, Paper, Bukkit API  
@@ -14,17 +14,17 @@
 
 ---
 
-## 🖤 Projects
+##  Projects
 
-- [`LogicDev Heaven Plugin`](https://github.com/LogicDevelopments) – Heaven Practice Plugin(First Iranian Practice Plugin)  
-- [`LogicDev`](https://github.com/LogicDevelopments) – LogicDev Projects
-- [`MineTopic`](https://minetopic.ir) – MineTopic     
+- [`HillVelocity`](https://github.com/nyxonis/hillvelocity) – Hillvelocity a custom fork of velocity(Minecraft Proxy).  
+- [`Nyxonis`](https://nyxonis.github.io) – my website
+- [`ETeam`](https://evilstoreshop.ir) – EProject     
 
-More private & unfinished things. Like some stories.
+More private & unfinished things.
 
 ---
 
-## 📊 GitHub 
+## GitHub 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aghodemon&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&icon_color=aaaaaa&title_color=ffffff&text_color=bbbbbb)
 
@@ -34,21 +34,15 @@ More private & unfinished things. Like some stories.
 
 ---
 
-## 📁 Where to find me
+## Socials 
 
-- GitHub → [AghoDemon](https://github.com/Aghodemon)  
-- Website → [Profile](https://Aghodemon.github.io)  
+- GitHub → [Nyxonis](https://github.com/nyxonis)  
+- Website → [Profile](https://nyxonis.github.io)  
 - Discord → [Discord](https://discord.gg/)
-- Rubika → [Rubika](@Demon1795)
-- Telegram → [Telegram](https://t.me/Demon1795)
-- Youtube → [Youtube](https://youtube.com/@Demon1795) 
+- Rubika → [Rubika](@Nyxonis)
+- Telegram → [Telegram](https://t.me/Nyxonis)
+- Youtube → [Youtube](https://youtube.com/@Nyxonis) 
 
 ---
 
-## 🥀 footnote
-
-> — `// no message //`
-
----
-
-![](https://komarev.com/ghpvc/?username=Aghodemon&label=views&color=333333&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nyxonis&label=views&color=333333&style=flat-square)
