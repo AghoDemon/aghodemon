@@ -3,8 +3,7 @@
  
 #TheNyxonis
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6C3483&center=true&vCenter=true&width=750&lines=PYTHON+%26+JAVA+ARCHITECT;MINECRAFT+MOD+DEVELOPER;REDIS+%26+MONGODB+ENGINEER;FULL+STACK+BOTS+Alone+:)+Python;React+NEXTJS+%7C+NODEJS+PHP;RestAPI+TS+MC+Java" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6C3483&center=true&vCenter=true&width=750&lines=PYTHON+%26+JAVA+ARCHITECT;MINECRAFT+MOD+DEVELOPER;REDIS+%26+MONGODB+ENGINEER;FULL+STACK+BOTS+EDITOR+API;React+NEXTJS+%7C+NODEJS+PHP;RestAPI+TS+MC+Java" />
 `**Back-End Developer** | **Java & Minecraft Plugin Engineer** | **Python & Web**`
 
 ---
