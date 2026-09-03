@@ -46,9 +46,8 @@ More private & unfinished things.
 ---
 
 ## Donate
+Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
-Daramet Donate → [Daramet](https://daramet.com/nyxonis)
-Cryptos Donate → [Crypto](https://evilstoreshop.ir/donate.php)
 
 
 [Nyxonis dead on 1404/10](https://github.com/nyxonis/nyxonis.github.io/raw/refs/heads/main/thenyxonis.mp3)
